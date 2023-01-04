@@ -11,7 +11,7 @@
 #include <iostream>
 #include <vector>
 
-const int N = 10; // change defines of constants to const
+const int N = 40; // change defines of constants to const
 
 inline void sum(int &res, std::vector<int> &v) // inline any short function
 {
